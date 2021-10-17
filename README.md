@@ -1,2 +1,2 @@
-- 👋 Mi nombre es felipe imparatta
-- 👀 Soy estudiante de programacion en JAP
+- 👋 Mi nombre es felipe.
+
