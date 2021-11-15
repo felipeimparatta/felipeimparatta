@@ -1,3 +1,4 @@
 - 👋 Mi nombre es felipe.
-- Programador BackEnd Javascript, html, css. 
+- Programador fullstack
 - Introduciéndome a python. 
+- Conocimiento en hacking etico
